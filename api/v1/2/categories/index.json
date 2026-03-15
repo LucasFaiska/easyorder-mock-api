@@ -1,0 +1,10 @@
+[
+  { "id": 21, "name": "Traditional Pizzas", "imageUrl": "https://loremflickr.com/320/240/pizza?lock=21", "displayOrder": 1, "status": "active" },
+  { "id": 22, "name": "Artisanal Pasta", "imageUrl": "https://loremflickr.com/320/240/pasta?lock=22", "displayOrder": 2, "status": "active" },
+  { "id": 7, "name": "Fresh Salads", "imageUrl": "https://loremflickr.com/320/240/salad?lock=7", "displayOrder": 3, "status": "active" },
+  { "id": 11, "name": "Hot Drinks & Coffee", "imageUrl": "https://loremflickr.com/320/240/coffee?lock=11", "displayOrder": 4, "status": "active" },
+  { "id": 17, "name": "Wine & Beer", "imageUrl": "https://loremflickr.com/320/240/beer?lock=17", "displayOrder": 5, "status": "active" },
+  { "id": 14, "name": "Gelato", "imageUrl": "https://loremflickr.com/320/240/icecream?lock=14", "displayOrder": 6, "status": "active" },
+  { "id": 18, "name": "Seasonal Specials", "imageUrl": "https://loremflickr.com/320/240/special?lock=18", "displayOrder": 7, "status": "active" },
+  { "id": 20, "name": "Brand Merchandise", "imageUrl": "https://loremflickr.com/320/240/tshirt?lock=20", "displayOrder": 8, "status": "active" }
+]
