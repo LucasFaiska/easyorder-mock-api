@@ -1,0 +1,14 @@
+[
+  { "id": 1, "name": "Signature Burgers", "imageUrl": "https://loremflickr.com/320/240/burger?lock=1", "displayOrder": 1, "status": "active" },
+  { "id": 2, "name": "Chicken & Fish", "imageUrl": "https://loremflickr.com/320/240/chicken?lock=2", "displayOrder": 2, "status": "active" },
+  { "id": 3, "name": "Vegetarian & Vegan", "imageUrl": "https://loremflickr.com/320/240/veggie?lock=3", "displayOrder": 3, "status": "active" },
+  { "id": 4, "name": "Combo Meals", "imageUrl": "https://loremflickr.com/320/240/meal?lock=4", "displayOrder": 4, "status": "active" },
+  { "id": 5, "name": "Crispy Sides", "imageUrl": "https://loremflickr.com/320/240/fries?lock=5", "displayOrder": 5, "status": "active" },
+  { "id": 6, "name": "Appetizers", "imageUrl": "https://loremflickr.com/320/240/snacks?lock=6", "displayOrder": 6, "status": "active" },
+  { "id": 8, "name": "Kids Menu", "imageUrl": "https://loremflickr.com/320/240/kids?lock=8", "displayOrder": 7, "status": "active" },
+  { "id": 9, "name": "Cold Beverages", "imageUrl": "https://loremflickr.com/320/240/soda?lock=9", "displayOrder": 8, "status": "active" },
+  { "id": 10, "name": "Natural Juices", "imageUrl": "https://loremflickr.com/320/240/juice?lock=10", "displayOrder": 9, "status": "active" },
+  { "id": 12, "name": "Milkshakes", "imageUrl": "https://loremflickr.com/320/240/milkshake?lock=12", "displayOrder": 10, "status": "active" },
+  { "id": 13, "name": "Desserts", "imageUrl": "https://loremflickr.com/320/240/dessert?lock=13", "displayOrder": 11, "status": "active" },
+  { "id": 19, "name": "Gourmet Sauces", "imageUrl": "https://loremflickr.com/320/240/sauce?lock=19", "displayOrder": 12, "status": "active" }
+]
