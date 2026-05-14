@@ -1,0 +1,19 @@
+{
+features: {
+checkout_pickup_at_store: {
+enabled: false,
+type: "boolean",
+value: null
+},
+checkout_coupon_input: {
+enabled: true,
+type: "boolean",
+value: 10
+},
+checkout_support_channel: {
+enabled: false,
+type: "string",
+value: null
+}
+}
+}
