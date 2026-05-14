@@ -1,0 +1,19 @@
+{
+  "features": {
+    "checkout_pickup_at_store": {
+      "enabled": true,
+      "type": "boolean",
+      "value": null
+    },
+    "checkout_coupon_input": {
+      "enabled": false,
+      "type": "boolean",
+      "value": null
+    },
+    "checkout_support_channel": {
+      "enabled": true,
+      "type": "string",
+      "value": "+5551999999"
+    }
+  }
+}
